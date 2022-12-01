@@ -1,15 +1,22 @@
 # aimIOCon  
 aimIOCon WEB UI dev Project 진행, WEB UI 개발을 담당함.  
-사용기술: vueJS, Electron, aim WebFramwork  
+사용한 framework: Vue2.0 (aim WEB UI Framework)  
 진행기간: 2022년 5월초 (9일) ~ 6월중순 (14일)  
 
-### 개요
-![image](https://user-images.githubusercontent.com/78777059/174749775-b22939c4-445b-491c-a4ba-1f7b552984d6.png)
-![image](https://user-images.githubusercontent.com/78777059/174749834-6e9c3e5f-e976-4d15-a46a-961ed7bda6a0.png)
-![image](https://user-images.githubusercontent.com/78777059/174750361-a6fed4e7-74ba-446e-877d-141a0806baa9.png)
-![image](https://user-images.githubusercontent.com/78777059/174750473-2adf27c5-ef97-4d83-b4a3-66216ee914e0.png)
-![image](https://user-images.githubusercontent.com/78777059/174750900-8171161a-457c-4d60-8369-e9f92a277246.png)
-![image](https://user-images.githubusercontent.com/78777059/174751015-28be2ccd-3214-41d4-a5da-c8aaef6e50d5.png)
+### Needs
+1. 기존 대비 설정 편집 편의성 향상 필요
+2. 리소스 진단 필요
+3. 필드버스 통신 통계 필요
+4. 실시간 모니터링 기능 필요
 
-### 프로그램 실행 화면
-![image](https://user-images.githubusercontent.com/78777059/174751456-7b4342dc-390a-47d4-8540-5bae94bfa000.png)
+##### Plan
+![image](https://user-images.githubusercontent.com/78777059/204985590-e1b98659-2559-4701-b8cb-62638074913d.png)
+
+### 개요
+![image](https://user-images.githubusercontent.com/78777059/204985468-694b6e5e-ee86-4a39-b89e-6bc7969db23e.png)
+
+### 결과물
+![image](https://user-images.githubusercontent.com/78777059/204985958-56340ae0-77a2-4067-8c2d-5eaf43299a6a.png)
+
+#### 참고 (Before)
+![image](https://user-images.githubusercontent.com/78777059/204986121-108b3b5f-292b-4887-bde8-81cb3228deb5.png)
