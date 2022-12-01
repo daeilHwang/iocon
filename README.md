@@ -20,3 +20,11 @@ aimIOCon WEB UI dev Project 진행, WEB UI 개발을 담당함.
 
 ### 참고 (Before)
 ![image](https://user-images.githubusercontent.com/78777059/204986121-108b3b5f-292b-4887-bde8-81cb3228deb5.png)
+
+### 그 외
+ - IOCon은 통상적인 PC Application 처럼 간단하게 실행할 수 있어야 한다는 의견이 있었음.
+ - Electron을 사용하여 하나의 Application 처럼 .exe 파일 형태로 빌드함.  
+   (이 과정에서 Node.js와 express 가 사용됨)  
+ - values.property 파일의 config만 수정하면 IOCon BackServer와 연결되어 사용할 수 있도록 개발하였음.
+![image](https://user-images.githubusercontent.com/78777059/204987291-ebab8dbf-08ce-4f6b-a5b3-e72f5aa4ef72.png)
+![image](https://user-images.githubusercontent.com/78777059/204987500-6dea5724-78f4-4beb-901d-5a8429b03702.png)
