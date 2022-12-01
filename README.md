@@ -1,7 +1,7 @@
 # aimIOCon  
 aimIOCon WEB UI dev Project 진행, WEB UI 개발을 담당함.  
 사용한 framework: Vue2.0 (aim WEB UI Framework)  
-진행기간: 2022년 5월초 (9일) ~ 6월중순 (14일)  
+진행기간: 2022년 5월9일 ~ 6월14일 (약 1개월)  
 
 ### Needs
 1. 기존 대비 설정 편집 편의성 향상 필요
